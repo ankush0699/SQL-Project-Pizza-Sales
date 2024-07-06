@@ -1,6 +1,10 @@
 # SQL-Project-Pizza-Sales
 This project contains SQL queries and their respective output in tabular form. These queries are performed to obtain answer of questions asked by stakeholders of pizza shop.
 
+### To see queries with respective output download "pizza sales sql queries.docx or pizza sales sql queries.pdf".
+### You can also download individual queries, question number is mentioned on them where B stands for basic questions, I for intermediate questions and A for advance questions.
+### Refer to questions.txt folder to see questions order.
+
 ## Quetiones:
 
 ### Basic:
